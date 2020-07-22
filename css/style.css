@@ -1,0 +1,11 @@
+h1{
+  background-color: blueviolet;
+  color: whitesmoke;
+  text-align: center;
+  text-shadow: brown 0.5;
+}
+
+section {
+  background-color: cyan;
+  font-size: 50px;
+}
