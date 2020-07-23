@@ -9,3 +9,10 @@ section {
   background-color: cyan;
   font-size: 50px;
 }
+
+header {
+  background-color: wheat;
+  border: 2px solid black;
+  box-shadow: 0 0 10px violet;
+  border-radius: 50%;
+}
