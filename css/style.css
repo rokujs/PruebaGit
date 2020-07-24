@@ -16,3 +16,9 @@ header {
   box-shadow: 0 0 10px violet;
   border-radius: 50%;
 }
+
+.letter {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aliceblue;
+}
