@@ -1,3 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 h1{
   background-color: blueviolet;
   color: whitesmoke;
@@ -8,17 +12,27 @@ h1{
 section {
   background-color: cyan;
   font-size: 50px;
+  padding: 10px 0;
 }
 
 header {
   background-color: wheat;
   border: 2px solid black;
   box-shadow: 0 0 10px violet;
-  border-radius: 50%;
+  /* border-radius: 20%; */
+  padding-bottom: 10px;
 }
 
-.letter {
-  font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif;
+.contFooter {
   color: aliceblue;
+  font-size: 15px;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  background-color: lightblue;
+  margin: auto;
+  padding: 0;
+  flex-direction: row;
 }
